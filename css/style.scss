@@ -59,7 +59,7 @@ body {
     padding-right: 14rem;
     &__title {
         font-weight: 700;
-        font-size: 4.5rem;
+        font-size: 5rem;
         color: $very-dark-magenta;
         margin-bottom: 2rem;
         line-height: 1;
@@ -99,6 +99,7 @@ body {
         border-radius: 1rem;
         color: $very-dark-magenta;
         font-weight: 700;
+        font-size: 1.3rem;
 
         &-icon {
             margin-right: 3rem;
@@ -145,7 +146,7 @@ body {
     .user-avatar {
         border-radius: 50%;
         overflow: hidden;
-        max-width: 4.5rem;
+        max-width: 4rem;
 
         img {
             width: 100%;

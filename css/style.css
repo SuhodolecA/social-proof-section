@@ -55,7 +55,7 @@ body {
 
 .description__title {
   font-weight: 700;
-  font-size: 4.5rem;
+  font-size: 5rem;
   color: #502050;
   margin-bottom: 2rem;
   line-height: 1;
@@ -107,6 +107,7 @@ body {
   border-radius: 1rem;
   color: #502050;
   font-weight: 700;
+  font-size: 1.3rem;
 }
 
 .rating__item-icon {
@@ -168,7 +169,7 @@ body {
 .social-reviews .user-avatar {
   border-radius: 50%;
   overflow: hidden;
-  max-width: 4.5rem;
+  max-width: 4rem;
 }
 
 .social-reviews .user-avatar img {

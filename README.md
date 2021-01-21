@@ -1,4 +1,5 @@
 # Frontend Mentor - Social proof section
+[Link to my solution:](https://suhodoleca.github.io/social-proof-section/)
 
 ![Design preview for the Social proof section coding challenge](./design/desktop-preview.jpg)
 
